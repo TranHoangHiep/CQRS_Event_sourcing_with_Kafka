@@ -1,4 +1,4 @@
-package com.techbank.account.cmd.domain;
+package com.techbank.cqrs.core.domain;
 
 import com.techbank.cqrs.core.events.BaseEvent;
 
